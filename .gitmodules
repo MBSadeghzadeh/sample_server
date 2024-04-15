@@ -1,0 +1,3 @@
+[submodule "lib/protobuf_messages"]
+	path = lib/protobuf_messages
+	url = git@github.com:MBSadeghzadeh/protobuf_messages.git
